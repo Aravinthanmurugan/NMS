@@ -13,3 +13,9 @@
         <artifactId>controller-util</artifactId>
         <version>RELEASE_VERSION</version>
     </dependency>
+<repositories>
+    <repository>
+        <id>opendaylight</id>
+        <url>https://nexus.opendaylight.org/content/repositories/public/</url>
+    </repository>
+</repositories>

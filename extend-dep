@@ -1,0 +1,15 @@
+   <dependency>
+        <groupId>org.opendaylight.netconf</groupId>
+        <artifactId>netconf-client</artifactId>
+        <version>RELEASE_VERSION</version>
+    </dependency>
+    <dependency>
+        <groupId>org.opendaylight.controller</groupId>
+        <artifactId>controller-md-sal-common-api</artifactId>
+        <version>RELEASE_VERSION</version>
+    </dependency>
+    <dependency>
+        <groupId>org.opendaylight.controller</groupId>
+        <artifactId>controller-util</artifactId>
+        <version>RELEASE_VERSION</version>
+    </dependency>
